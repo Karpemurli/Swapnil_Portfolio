@@ -235,7 +235,7 @@ function closeModal() {
 // Enhanced Certificate Viewer
 const certificateData = {
     'java': {
-        url: 'assets/certificates/Internsip.pdf',
+        url: 'assets/certificates/inter.pdf',
         title: 'Java Internship Certificate',
         description: 'Practical Java training with real-world project experience'
     },
